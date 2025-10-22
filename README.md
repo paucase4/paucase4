@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi! I am a Computer Engineer and Data Science student based in Romeoville, IL
+
+I am passionate about extracting valuable information from large sources of data. I am very curious and enjoy learning about technology. 
+
+I use Machine Learning models to take advantage of large sources of data, providing insights and predictions. To complement this, I use data visualizations to present these pieces of data to others.
 
 <!--
 **paucase4/paucase4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
