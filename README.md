@@ -9,6 +9,9 @@ I use Machine Learning models to take advantage of large sources of data, provid
 <h4> Languages </h4>
 <span> 
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+
 </span>
 
 <h4> Other Tools and Technologies </h4>
