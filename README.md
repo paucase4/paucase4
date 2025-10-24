@@ -17,7 +17,10 @@ I use Machine Learning models to take advantage of large sources of data, provid
   <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff">
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff">
   <img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </span>
+
 
 ## 🤝🏻 Connect with Me
 
