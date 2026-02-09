@@ -1,4 +1,4 @@
-## Hi! I am a Data Scientist based in Romeoville, IL
+## Hi! I am a Data Scientist based in Barcelona
 
 I am passionate about extracting valuable information from large sources of data. I am very curious and enjoy learning about technology. 
 
