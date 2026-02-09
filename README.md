@@ -1,6 +1,6 @@
 ## Hi! I am a Data Scientist based in Barcelona
 
-I am passionate about extracting valuable information from large sources of data. I am very curious and enjoy learning about technology. 
+I have a background of Computer Engineering and I am passionate about extracting valuable information from large sources of data. I am very curious and enjoy learning about technology. 
 
 I use Machine Learning models to take advantage of large sources of data, providing insights and predictions. To complement this, I use data visualizations to present these pieces of data to others.
 
